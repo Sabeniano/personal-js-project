@@ -2,7 +2,7 @@
 environment:
   matrix
   #node.js
-  - nodejs_version "8.11.4"
+  - nodejs_version: "8.11.4"
 
   # Install scripts. (runs after repo cloning)
   install:
